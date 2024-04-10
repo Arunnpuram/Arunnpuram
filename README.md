@@ -13,7 +13,7 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,java,linux,git,aws,js,express,react,mongo&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,linux,git,aws,js,express,react,bitbucket,blender,powershell,visualstudio,docker,dynamodb,elasticsearch&perline=7)](https://skillicons.dev)
 
 </p>
 
