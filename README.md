@@ -6,8 +6,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=vijaysingh2219&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working as Junior Devops Engineer
-- 🌱 I’m currently learning **PYTHON** **JAVASCRIPT**
+- 🔭 I’m currently working as ICT Support Engineer with an interest in Devops and Solution architecture
+- Current goal is to get AWS Solutions Architect Professional Certified.
+- Hands on practice with AWS, Atlassian tools at current work
+- 🌱 I’m currently learning **PYTHON** **JAVASCRIPT** **CI/CD**
 
 ## Languages and Tools
 
