@@ -4,7 +4,7 @@
 
 ## Programmer and tech enthusiast
 
-![Profile views](https://komarev.com/ghpvc/?username=vijaysingh2219&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=afadeofred&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working as ICT Support Engineer with an interest in Devops and Solution architecture
 - Current goal is to get AWS Solutions Architect Professional Certified.
