@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as ICT Support Engineer with an interest in Devops and Solution architecture
 - Current goal is to get AWS Solutions Architect Professional Certified.
 - Hands on practice with AWS, Atlassian tools at current work
-- 🌱 I’m currently learning **PYTHON** **JAVASCRIPT** **CI/CD**
+- 🌱 I’m currently learning **PYTHON** and **CI/CD**
 
 ## Languages and Tools
 
