@@ -8,11 +8,14 @@
 
 - 🔭 I’m currently working as ICT Support Engineer with an interest in Devops and Solution architecture
 - Current goal is to get AWS Devops engineer Professional Certified 
-- 🌱 I’m currently learning **PYTHON**  **JAVASCRIPT** and **CI/CD** 
+- 🌱 I’m currently learning **PYTHON**  **JAVASCRIPT**  **NODE.JS** and **CI/CD** 
 
 ## Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=bash,python,linux,git,aws,js,express,react,bitbucket,blender,powershell,visualstudio,docker,dynamodb,elasticsearch&perline=7)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,python,linux,git,aws,js,express,react,bitbucket,blender,powershell,visualstudio,docker,dynamodb,elasticsearch&perline=7"/>
+  </a>
+</p>
 
 ## Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -28,3 +31,4 @@
 <h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/> </h1>
 
 <h2 align="center"> Thanks for visiting my profile. 🌟</h2>
+
