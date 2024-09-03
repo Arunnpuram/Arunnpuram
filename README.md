@@ -14,6 +14,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bash,python,linux,git,aws,js,express,react,bitbucket,blender,powershell,visualstudio,docker,dynamodb,elasticsearch&perline=7)](https://skillicons.dev)
 
+## Operating Systems:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 📈📊 Statistics:
+
+  ![https://github-readme-stats.vercel.app/api?username=gatix1&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true](https://github-readme-stats.vercel.app/api?username=Arunnpuram&theme=rose_pine)
+  ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunnpuram&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
 </p>
 
 <h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/> </h1>
