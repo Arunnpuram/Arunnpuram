@@ -8,9 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=Arunnpuram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working as ICT Support Engineer with an interest in DevOps and Solution Architecture
-- Current goal is to get AWS DevOps Engineer Professional Certified 
-- 🌱 I’m currently learning **PYTHON**, **JAVASCRIPT**, **NODE.JS**, and **CI/CD**
+<p align="center">
+  - 🔭 I’m currently working as ICT Support Engineer with an interest in DevOps and Solution Architecture<br>
+  - Current goal is to get AWS DevOps Engineer Professional Certified <br>
+  - 🌱 I’m currently learning **PYTHON**, **JAVASCRIPT**, **NODE.JS**, and **CI/CD**
+</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
