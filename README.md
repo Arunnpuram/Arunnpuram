@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  - 🔭 I’m currently working as ICT Support Engineer with an interest in DevOps and Solution Architecture<br>
+  - 🔭 Aspiring DevOps Engineer and a Solutions Architect<br>
   - Current goal is to get AWS DevOps Engineer Professional Certified <br>
   - 🌱 I’m currently learning **PYTHON**, **JAVASCRIPT**, **NODE.JS**, and **CI/CD**
 </p>
