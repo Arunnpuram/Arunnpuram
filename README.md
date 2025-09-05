@@ -1,18 +1,21 @@
-<div style="text-align: center;">
-  [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Arunnpuram)
-  <h1 >Hi 👋, I'm Arun</h1>
+<div align="center">
+  <a href="https://github.com/Arunnpuram">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" />
+  </a>
+  
+  <h1 align="center">Hi 👋, I'm Arun</h1>
   <a href="https://arunnpuram.github.io/My-Portfolio/">Check out My Portfolio!</a>
-  <h2 >Programmer and tech enthusiast</h2>
+  <h2 align="center">Programmer and tech enthusiast</h2>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arunnpuram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Arunnpuram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  - 🔭 Aspiring DevOps Engineer and a Solutions Architect<br>
-  - Current goal is to get AWS DevOps Engineer Professional Certified <br>
-  - 🌱 I’m currently learning **PYTHON**, **JAVASCRIPT**, **NODE.JS**, and **CI/CD**
+  - 🔭 Aspiring DevOps Engineer and a Solutions Architect<br>
+  - Current goal is to get AWS DevOps Engineer Professional Certified <br>
+  - 🌱 I’m currently learning **PYTHON**, **JAVASCRIPT**, **NODE.JS**, and **CI/CD**
 </p>
 
 <h3 align="center">Languages and Tools</h3>
