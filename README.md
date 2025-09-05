@@ -1,63 +1,58 @@
 <div align="center">
-  <a href="https://github.com/Arunnpuram">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%"/>
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h0d3Z5c3c0cThuc21kaWhqYm40c2ZpN3ZobXg0d3ZqYnI3cHNtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1JmhXf8a1nkc/giphy.gif" alt="Pixel Arcade Header" width="100%"/>
 </div>
 
 <div align="center">
-  <h1>Hi 👋, I'm Arun</h1>
-  <h3>🔭 DevOps Engineer and a Solutions Architect 🔭</h3>
+  <img src="https://fontmeme.com/permalink/231026/e1c0e0e3f8a00249339e0e9a4f4d2f3d.png" alt="Arun - 8-Bit Font">
+  <h3 style="color: #FFA500;">- DevOps Engineer & Solutions Architect -</h3>
 </div>
 
 <div align="center">
   <a href="https://arunnpuram.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/My_Portfolio-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/SELECT_PLAYER-F23C3C?style=for-the-badge&logo=Nintendo%20GameCube&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Arunnpuram&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Arunnpuram&label=HIGH--SCORE&style=for-the-badge&color=5865F2" alt="Profile views"/>
 </div>
 
 ---
 
 <div align="center">
-  <h3 align="center">👨‍💻 About Me</h3>
-  <p align="center">
-    🎯 Current goal is to achieve the <strong>AWS DevOps Engineer Professional Certification</strong>.
+  <h3 style="color: #FFA500;">LEVEL-UP QUESTS</h3>
+  <p style="color: #FFFFFF;">
+    <strong>Active Quest:</strong> Secure the AWS DevOps Engineer Professional Certificate!
     <br>
-    🌱 I’m currently learning and refining my skills in <strong>PYTHON</strong>, <strong>JAVASCRIPT</strong>, <strong>NODE.JS</strong>, and <strong>CI/CD</strong>.
+    <strong>Skill Tree:</strong> Unlocking new abilities in Python, JavaScript, Node.js, and CI/CD.
   </p>
 </div>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-
+<h3 align="center" style="color: #FFA500;">ARSENAL</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,bitbucket,blender,docker,dynamodb,elasticsearch,express,git,js,linux,powershell,python,react,visualstudio&perline=8"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=bash,python,linux,git,aws,js,express,react,bitbucket,blender,powershell,visualstudio,docker,dynamodb,elasticsearch&perline=8"/>
 </p>
 
-<h4 align="center">Operating Systems</h4>
+<h4 align="center" style="color: #FFA500;">PLATFORMS</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
+
 ---
 
-### 📈 My GitHub Stats
-
+<h3 align="center" style="color: #FFA500;">PLAYER_STATS</h3>
 <details align="center">
-  <summary>Click to expand</summary>
+  <summary style="color: #FFFFFF;">PRESS START TO VIEW</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arunnpuram&theme=rose_pine&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunnpuram&theme=rose-pine&hide_border=true&area=true" alt="GitHub activity graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arunnpuram&theme=jolly&show_icons=true&hide_border=true&title_color=FFA500&icon_color=5865F2&text_color=FFFFFF&bg_color=1D1D1D" alt="GitHub stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunnpuram&theme=chartreuse-dark&hide_border=true&color=FFA500&line=5865F2&point=F23C3C&area=true&bg_color=1D1D1D" alt="GitHub activity graph" />
   </p>
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-  <h2>Thanks for visiting my profile! 🌟</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&color=FFA500,F23C3C,5865F2" alt="Footer Wave"/>
+  <h2 style="color: #FFFFFF;">GAME OVER - THANKS FOR PLAYING!</h2>
 </div>
