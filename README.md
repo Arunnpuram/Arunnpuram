@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  - 🔭 Aspiring DevOps Engineer and a Solutions Architect<br>
+  - 🔭 DevOps Engineer and a Solutions Architect<br>
   - Current goal is to get AWS DevOps Engineer Professional Certified <br>
   - 🌱 I’m currently learning **PYTHON**, **JAVASCRIPT**, **NODE.JS**, and **CI/CD**
 </p>
