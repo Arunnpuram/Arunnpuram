@@ -4,8 +4,8 @@
   </a>
   
   <h1 align="center">Hi 👋, I'm Arun</h1>
+  <h1 align="center">🔭 DevOps Engineer and a Solutions Architect</h1>
   <a href="https://arunnpuram.github.io/My-Portfolio/">Check out My Portfolio!</a>
-  <h2 align="center">Programmer and tech enthusiast</h2>
 </div>
 
 <p align="center">
@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  - 🔭 DevOps Engineer and a Solutions Architect<br>
   - Current goal is to get AWS DevOps Engineer Professional Certified <br>
   - 🌱 I’m currently learning **PYTHON**, **JAVASCRIPT**, **NODE.JS**, and **CI/CD**
 </p>
