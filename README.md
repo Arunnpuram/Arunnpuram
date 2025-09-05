@@ -18,14 +18,18 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎯 Current goal is to achieve the **AWS DevOps Engineer Professional Certification**.
-- 🌱 I’m currently learning and refining my skills in **PYTHON**, **JAVASCRIPT**, **NODE.JS**, and **CI/CD**.
+<div align="center">
+  <h3 align="center">👨‍💻 About Me</h3>
+  <p align="center">
+    🎯 Current goal is to achieve the <strong>AWS DevOps Engineer Professional Certification</strong>.
+    <br>
+    🌱 I’m currently learning and refining my skills in <strong>PYTHON</strong>, <strong>JAVASCRIPT</strong>, <strong>NODE.JS</strong>, and <strong>CI/CD</strong>.
+  </p>
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
